@@ -33,6 +33,10 @@ call plug#end()
 
 
 
+" terminal
+:nmap <C-t> :vsplit<CR>:terminal<CR>
+
+
 " overal theme
 " colorscheme nord
 colorscheme dracula
@@ -85,7 +89,7 @@ require("nvim-tree").setup({
 END
 
 " auto pra 
-source ./test/_setup.vim
+source /home/amirmohammad/.config/nvim/test/_setup.vim
 let delimitMate_expand_cr = 1
 filetype indent plugin on
 
