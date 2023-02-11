@@ -3,6 +3,7 @@ My neovim configuration
 
 # NOTICE
 before use it make sure you have [vim-plug](https://github.com/junegunn/vim-plug) installed.
+then you can copy all files to your neovim config directory. (default at: $HOME/.config/nvim)
 
 #### preffix keys: Ctrl+w
 #### to install language code highlight: ```:TSInstall <language>```
@@ -25,3 +26,6 @@ before use it make sure you have [vim-plug](https://github.com/junegunn/vim-plug
 
 # Plugins
 - [ ] will add soon
+
+# Why Neovim?
+it also supports lua, and it's more configurable than vim script.
