@@ -4,10 +4,11 @@ My neovim configuration
 # NOTICE
 before use it make sure you have [vim-plug](https://github.com/junegunn/vim-plug) installed.
 
-#### command-line auto complete wont work with arrow keys, use tab and shift+tab
 #### preffix keys: Ctrl+w
 #### to install language code highlight: ```:TSInstall <language>```
 #### to update language code highlight: ```:TSUpdate <language>```
+#### default theme is dracula, nord is also available
+#### to update and install new plugins: ```:PlugInstall```
 
 # KeyMaps
 
@@ -21,3 +22,6 @@ before use it make sure you have [vim-plug](https://github.com/junegunn/vim-plug
 | C+Left | previous tab |
 | C+s | split v |
 | C+f | toggle file tree |
+
+# Plugins
+- [ ] will add soon
