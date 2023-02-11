@@ -29,3 +29,10 @@ then you can copy all files to your neovim config directory. (default at: $HOME/
 
 # Why Neovim?
 it also supports lua, and it's more configurable than vim script.
+
+# TODO
+
+- [ ] code auto complete
+- [ ] built-in terminal
+- [ ] commenting system
+- [ ] adding some ScreenShots
