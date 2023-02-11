@@ -23,6 +23,7 @@ then you can copy all files to your neovim config directory. (default at: $HOME/
 | C+Left | previous tab |
 | C+s | split v |
 | C+f | toggle file tree |
+| C+t | split and open terminal |
 
 # Plugins
 - [ ] will add soon
