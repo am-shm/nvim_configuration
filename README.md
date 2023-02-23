@@ -23,7 +23,10 @@ then you can copy all files to your neovim config directory. (default at: $HOME/
 | C+Left | previous tab |
 | C+s | split v |
 | C+f | toggle file tree |
-| C+t | split and open terminal |
+| C+t | float terminal toggle |
+| Alt + arrowKeys | change working window |
+
+* you can exit terminal mode with ```ESC```.
 
 # Plugins
 - [ ] will add soon
@@ -34,6 +37,6 @@ it also supports lua, and it's more configurable than vim script.
 # TODO
 
 - [ ] code auto complete
-- [ ] built-in terminal
+- [x] built-in terminal
 - [ ] commenting system
 - [ ] adding some ScreenShots
